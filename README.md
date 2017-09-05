@@ -1,25 +1,45 @@
-# ReduxSimpleStarter
+# Youtuve Video Player
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+## Created by Tyler Allen
 
-### Getting Started
 
-There are two methods for getting started with this repo.
+## User Story
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+* User inputs search term and the five top youtube videos will display, with the top video ready to play.
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## Specs
 
-```
-> npm install
-> npm start
-```
+| Objective | Implementation | Status |
+|:-------------:|:-------------:|:-------------:|
+| User can watch a youtube video | User clicks on a video | Video plays |
+| User can search for youtube videos | User inputs "dogs" in search field | videos of dogs are displayed |
+
+
+## Setup/Installation Requirements
+
+  * git clone `https://github.com/TylerJAllen/react-video-player`
+  * cd react-video-player
+  * npm install
+  * npm start
+
+
+
+## Bugs
+There are no known bugs at this time, but please contact the creator with questions or concerns regarding this application.
+
+
+## Technologies Used
+
+  * React
+  * Babel
+  * JavaScript/jQuery
+  * HTML5
+  * CSS3/Bootstrap
+  * Youtube Data API
+
+
+## Licensing
+This application features MIT licensing.
+
+Copyright &copy; 2017 **Tyler Allen** All Rights Reserved.
